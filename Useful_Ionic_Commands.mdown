@@ -1,0 +1,3 @@
+# Useful Ionic Commands
+
+This document contains useful commands for developing and deploying in Ionic.  It will be updated by the team members throughout the development of our application.
